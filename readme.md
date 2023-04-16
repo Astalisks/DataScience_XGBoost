@@ -1,6 +1,7 @@
 # 2023/04/16 初投稿
 
 ### 注意：SampleData.csvは投稿していません。
+### 注意：python 3.10のみ動作確認済
 
 ### XGBoostとは
 XGBoost（eXtreme Gradient Boosting）は、勾配ブースティング（Gradient Boosting）を用いた機械学習アルゴリズムの一種で、高い予測精度を実現することで知られています。分類問題や回帰問題などの機械学習タスクに利用されています。
